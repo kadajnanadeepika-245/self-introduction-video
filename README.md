@@ -7,8 +7,8 @@ Welcome to my **Self-Introduction** repository.
 Thank you for visiting my repository. This repository contains my self-introduction video, where I share a brief overview of myself, my academic journey, interests, aspirations, and future goals.
 
 ▶️ **Watch the video here:**  
-**Google Drive:** https://drive.google.com/your-drive-link
-
+**Google Drive:** [https://drive.google.com/your-drive-link
+](https://drive.google.com/drive/folders/1ERuy_8U_-BEqEYmrRlVrX-1tVmef2l5m?usp=sharing)
 ---
 
 ## 🌟 About Me
