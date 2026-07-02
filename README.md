@@ -23,8 +23,8 @@ Thank you for visiting my repository. This repository contains my self-introduct
 
 ## 📫 Connect With Me
 
-- **GitHub:** [GitHub Profile](https://github.com/your-username)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **GitHub:** [GitHub Profile]([https://github.com/your-username](https://github.com/kadajnanadeepika-245))
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jnana-deepika-lakshmi-sowmya-kada-511133298/)
 
 ---
 
